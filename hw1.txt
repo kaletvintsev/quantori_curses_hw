@@ -1,0 +1,18 @@
+
+1. Bool и int имеют одинаковые методы.
+   str и bool не имеют публичных методов открытых методов
+
+2. В python2 raw_input() ввод пользователя
+    input() - eval(input())
+   Основное различие заключается в том, что input() ожидает синтаксически правильного оператора python, а raw_input() - нет.
+
+   В python3 raw_input переименовали в input, старый raw_input удалили. Его можно сымитировать выполнив eval(input())
+
+3. Нашел, прочитал: https://pythonworld.ru/osnovy/python2-vs-python3-razlichiya-sintaksisa.html
+
+
+
+
+
+
+
